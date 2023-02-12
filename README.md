@@ -7,8 +7,11 @@
 ###
 
 -🌱 I’m currently learning **React, Java Spring/Springboot, and Unity.**
+
 -👯 I’m looking to collaborate on **Unity, UI/UX, React, Flutter, Java, and Python projects.**
+
 -👨‍💻 All of my projects are available at [Github](https://github.com/saadhzubairi).
+
 -📝 I sometimes write articles on [Medium](https://saadhzubairi.medium.com/).<br><br>📫 Reach me via: **saadhzubairi@outlook.com**</p>
 
 ###
