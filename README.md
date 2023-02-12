@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning React, Java Spring/Springboot, and Unity.<br><br>👯 I’m looking to collaborate on Unity, UI/UX, React, Flutter, Java, and Python projects.<br><br>👨‍💻 All of my projects are available at Github.<br><br>📝 I sometimes write articles on Medium.<br><br>📫 Reach me via: saadhzubairi@outlook.com</p>
+<p align="left">🌱 I’m currently learning **React, Java Spring/Springboot, and Unity.**<br><br>👯 I’m looking to collaborate on **Unity, UI/UX, React, Flutter, Java, and Python projects.**<br><br>👨‍💻 All of my projects are available at [Github](https://github.com/saadhzubairi).<br><br>📝 I sometimes write articles on [Medium](https://saadhzubairi.medium.com/).<br><br>📫 Reach me via: **saadhzubairi@outlook.com**</p>
 
 ###
 
@@ -85,7 +85,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=saadhzubairi" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=saadhzubairi" height="150" alt="languages graph"  />
 </div>
