@@ -3,20 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadhzubairi&label=Profile%20views&color=0e75b6&style=flat" alt="saadhzubairi" /> </p>
 
-- 🌱 I’m currently learning **React, React Native, Springboot**
+- 🌱 I’m currently learning **React, Java Spring/Springboot, and Unity**
 
-- 👯 I’m looking to collaborate on **UI/UX Projects**
+- 👯 I’m looking to collaborate on **Unity, UI/UX, React, Flutter, Java, and Python projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/samimakhan](https://github.com/saadhzubairi)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/saadhzubairi)
 
-- 📝 I sometimes write articles on [https://medium.com/@samimakhan16](https://saadhzubairi.medium.com/)
+- 📝 I sometimes write articles on [Medium](https://saadhzubairi.medium.com/)
 
-- 📫 How to reach me **samimakhan16@gmail.com**
+- 📫 How to reach me **saadhzubairi@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saadhzubairi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saadhzubairi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saadhzubairi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saadhzubairi" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
