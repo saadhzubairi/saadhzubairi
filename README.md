@@ -16,6 +16,14 @@
 
 ### Projects:
   -[Hide-n-Seek (A Hypercasual game made with Unity)](https://github.com/saadhzubairi/Hide-and-seek)
+  -[Multithreaded File Transfer Tool (Command line TCP Socket utility using C++)](https://github.com/saadhzubairi/Multithreaded-File-Transfer-using-TCP-Sockets)
+  -[Top-Down Shooter (Single player game made from scatch using C++ and SDL 2.0)](https://github.com/saadhzubairi/Top_Down_Shooter_SDL_2.0)
+  -[LaTex-lite (Desktop application made using Java and JavaFX to ease the use of LaTex)](https://github.com/saadhzubairi/SE_LATEX)
+  -[Bezier Curve Simulator (A simple app to simulate and draw upto a 5 degree bezier curve)](https://github.com/saadhzubairi/Bezier-Curve-JavaFX)
+  -[Cohen Sutherland Simulator (a simple program to simulate the Cohen Sutherland Line Clipping Algorithm)] (https://github.com/saadhzubairi/CohenSutherland)
+  -[Tutor Finder (A desktop application made for the demonstration of data structures)](https://github.com/saadhzubairi/Tutor-Finder-JavaFX)
+  -[STP Simulator (Spanning Tree Protocol implementation in java using Hashmaps data structure to represent the graph topology, and greedy search algorithm to find shortest path to set-root bridge)](https://github.com/saadhzubairi/STP-Hashmap)
+  -[Digital Scorebook(Desktop App keep track of cricket tournaments by adding teams and their players, and tracking the match in real time)](https://github.com/saadhzubairi/Digital-Cricket-Scorebook-OOP)
 
 
 ###
