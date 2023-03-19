@@ -14,7 +14,7 @@
 
 📝 I sometimes write articles on [Medium](https://saadhzubairi.medium.com/).<br><br>📫 Reach me via: **saadhzubairi@outlook.com**</p>
 
-### Projects:
+### Take a look at my showcased projects below:
   1. [Hide-n-Seek (A Hypercasual game made with Unity)](https://github.com/saadhzubairi/Hide-and-seek) <br>
   2. [Multithreaded File Transfer Tool (Command line TCP Socket utility using C++)](https://github.com/saadhzubairi/Multithreaded-File-Transfer-using-TCP-Sockets)<br>
   3. [Top-Down Shooter (Single player game made from scatch using C++ and SDL 2.0)](https://github.com/saadhzubairi/Top_Down_Shooter_SDL_2.0)<br>
