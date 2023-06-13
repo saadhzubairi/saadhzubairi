@@ -95,3 +95,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="52" alt="unity logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
 </div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saadhzubairi" height="250" alt="stats graph"  />
+</div>
