@@ -6,7 +6,7 @@
 
 ###
 
-🌱 I’m currently learning **React, Flutter, and Java Spring/Springboot.**
+🌱 I’m currently learning **Next.js, Flutter, and Java Spring/Springboot.**
 
 👯 I’m looking to collaborate on **Unity, UI/UX, React, Flutter, Java, and Python projects.**
 
