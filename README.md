@@ -7,16 +7,13 @@
 ###
 
 🌱 I’m currently learning **Next.js, Flutter, and Java Spring/Springboot.**
-
 👯 I’m looking to collaborate on **Unity, UI/UX, React, Flutter, Java, and Python projects.**
-
 👨‍💻 All of my projects are available at [Github](https://github.com/saadhzubairi).
-
 📝 I sometimes write articles on [Medium](https://saadhzubairi.medium.com/).<br><br>📫 Reach me via: **saadhzubairi@outlook.com**</p>
 
 ### Take a look at my showcased projects below:
   1. [Hoops (A letter based social media application made with the <b>MERN</b> stack)](https://github.com/saadhzubairi/Social-Media-Application) <br>
-  2. [Unisphere (A simple chatting application made using <b>Flutter</>)](https://github.com/saadhzubairi/Unisphere) <br>
+  2. [Unisphere (A simple chatting application made using <b>Flutter</b>)](https://github.com/saadhzubairi/Unisphere) <br>
   3. [Hide-n-Seek (A Hypercasual game made with Unity)](https://github.com/saadhzubairi/Hide-and-seek) <br>
   4. [Multithreaded File Transfer Tool (Command line TCP Socket utility using C++)](https://github.com/saadhzubairi/Multithreaded-File-Transfer-using-TCP-Sockets)<br>
   5. [Top-Down Shooter (Single player game made from scatch using C++ and SDL 2.0)](https://github.com/saadhzubairi/Top_Down_Shooter_SDL_2.0)<br>
