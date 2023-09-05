@@ -13,7 +13,7 @@
 
 ### Take a look at my showcased projects below:
   1. [Hoops (A letter based social media application made with the <b>MERN</b> stack)](https://github.com/saadhzubairi/Social-Media-Application) <br>
-  2. [TalentHive (A fullstack talent managment application with a powerful underlying NLP model for resume parsing and scoring ,engineered on the <b>MERN</b> stack and NLP with <b>SpaCy</b>](https://github.com/saadhzubairi/FYP-TalentHive)
+  2. [TalentHive (A fullstack talent managment application with a powerful underlying NLP model for resume parsing and scoring, engineered on the <b>MERN</b> stack and NLP with <b>SpaCy</b>](https://github.com/saadhzubairi/FYP-TalentHive)
   3. [Unisphere (A simple chatting application made using <b>Flutter</b>)](https://github.com/saadhzubairi/Unisphere) <br>
   4. [Hide-n-Seek (A Hypercasual game made with Unity)](https://github.com/saadhzubairi/Hide-and-seek) <br>
   5. [Multithreaded File Transfer Tool (Command line TCP Socket utility using C++)](https://github.com/saadhzubairi/Multithreaded-File-Transfer-using-TCP-Sockets)<br>
