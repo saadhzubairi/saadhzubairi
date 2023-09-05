@@ -13,16 +13,17 @@
 
 ### Take a look at my showcased projects below:
   1. [Hoops (A letter based social media application made with the <b>MERN</b> stack)](https://github.com/saadhzubairi/Social-Media-Application) <br>
-  2. [Unisphere (A simple chatting application made using <b>Flutter</b>)](https://github.com/saadhzubairi/Unisphere) <br>
-  3. [Hide-n-Seek (A Hypercasual game made with Unity)](https://github.com/saadhzubairi/Hide-and-seek) <br>
-  4. [Multithreaded File Transfer Tool (Command line TCP Socket utility using C++)](https://github.com/saadhzubairi/Multithreaded-File-Transfer-using-TCP-Sockets)<br>
-  5. [Top-Down Shooter (Single player game made from scatch using C++ and SDL 2.0)](https://github.com/saadhzubairi/Top_Down_Shooter_SDL_2.0)<br>
-  6. [LaTex-lite (Desktop application made using Java and JavaFX to ease the use of LaTex)](https://github.com/saadhzubairi/SE_LATEX)<br>
-  7. [Bezier Curve Simulator (A simple app to simulate and draw upto a 5 degree bezier curve)](https://github.com/saadhzubairi/Bezier-Curve-JavaFX)<br>
-  8. [Cohen Sutherland Simulator (a simple program to simulate the Cohen Sutherland Line Clipping Algorithm)](https://github.com/saadhzubairi/CohenSutherland)<br>
-  9. [Tutor Finder (A desktop application made for the demonstration of data structures)](https://github.com/saadhzubairi/Tutor-Finder-JavaFX)<br>
-  10. [STP Simulator (Spanning Tree Protocol implementation in java using Hashmaps data structure)](https://github.com/saadhzubairi/STP-Hashmap)<br>
-  11. [Digital Scorebook(Desktop App keep track of cricket tournaments by adding teams and their players, and tracking the match)](https://github.com/saadhzubairi/Digital-Cricket-Scorebook-OOP)<br>
+  2. [TalentHive (A fullstack talent managment application with a powerful underlying NLP model for resume parsing and scoring ,engineered on the <b>MERN</b> stack and NLP with <b>SpaCy</b>](https://github.com/saadhzubairi/FYP-TalentHive)
+  3. [Unisphere (A simple chatting application made using <b>Flutter</b>)](https://github.com/saadhzubairi/Unisphere) <br>
+  4. [Hide-n-Seek (A Hypercasual game made with Unity)](https://github.com/saadhzubairi/Hide-and-seek) <br>
+  5. [Multithreaded File Transfer Tool (Command line TCP Socket utility using C++)](https://github.com/saadhzubairi/Multithreaded-File-Transfer-using-TCP-Sockets)<br>
+  6. [Top-Down Shooter (Single player game made from scatch using C++ and SDL 2.0)](https://github.com/saadhzubairi/Top_Down_Shooter_SDL_2.0)<br>
+  7. [LaTex-lite (Desktop application made using Java and JavaFX to ease the use of LaTex)](https://github.com/saadhzubairi/SE_LATEX)<br>
+  8. [Bezier Curve Simulator (A simple app to simulate and draw upto a 5 degree bezier curve)](https://github.com/saadhzubairi/Bezier-Curve-JavaFX)<br>
+  9. [Cohen Sutherland Simulator (a simple program to simulate the Cohen Sutherland Line Clipping Algorithm)](https://github.com/saadhzubairi/CohenSutherland)<br>
+  10. [Tutor Finder (A desktop application made for the demonstration of data structures)](https://github.com/saadhzubairi/Tutor-Finder-JavaFX)<br>
+  11. [STP Simulator (Spanning Tree Protocol implementation in java using Hashmaps data structure)](https://github.com/saadhzubairi/STP-Hashmap)<br>
+  12. [Digital Scorebook(Desktop App keep track of cricket tournaments by adding teams and their players, and tracking the match)](https://github.com/saadhzubairi/Digital-Cricket-Scorebook-OOP)<br>
 
 
 ###
