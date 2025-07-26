@@ -6,7 +6,7 @@
 
 ###
 
-🌱 I’m currently learning **Next.js, Flutter, and Java Spring/Springboot.** <br>
+🌱 Proficient in **Next.js, Nest.js, Django, and Java Spring/Springboot.** <br> with a strong background in Java, Python, and Tyepscript.
 👯 I’m looking to collaborate on **Unity, UI/UX, React, Flutter, Java, and Python projects.** <br>
 👨‍💻 All of my projects are available at [Github](https://github.com/saadhzubairi). <br>
 📝 I sometimes write articles on [Medium](https://saadhzubairi.medium.com/).<br><br>📫 Reach me via: **saadhzubairi@outlook.com**</p>
